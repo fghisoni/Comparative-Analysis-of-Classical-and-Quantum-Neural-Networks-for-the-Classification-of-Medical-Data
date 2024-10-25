@@ -44,7 +44,7 @@ else:
     model.add(Dense(n_nodes, input_dim=8, activation='relu'))
     for i in range(layers):
         model.add(Dense(n_nodes, activation='relu'))
-    model.add(Dense(1, activation='linear'))
+    model.add(Dense(1, activation='sigmoid'))
 
 learning_rate = 0.01
 optimizer = Adam(learning_rate=learning_rate)
