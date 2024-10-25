@@ -41,14 +41,14 @@ model = Sequential()
 if layers == 0:
     model.add(Dense(1, input_dim=8, activation='sigmoid'))
 else:
-    model.add(Dense(n_nodes, input_dim=8, activation='sigmoid'))
+    model.add(Dense(n_nodes, input_dim=8, activation='relu'))
     for i in range(layers):
-        model.add(Dense(n_nodes, activation='sigmoid'))
+        model.add(Dense(n_nodes, activation='relu'))
     model.add(Dense(1, activation='linear'))
 
 learning_rate = 0.01
 optimizer = Adam(learning_rate=learning_rate)
-model.compile(loss='mean_squared_error', optimizer=optimizer, metrics=['accuracy'])
+model.compile(loss='binary_crossentropy', optimizer=optimizer, metrics=['accuracy'])
 
 history = model.fit(X_train, Y_train, epochs=1000, batch_size=50, validation_data=(X_test, Y_test), verbose=False)
 
