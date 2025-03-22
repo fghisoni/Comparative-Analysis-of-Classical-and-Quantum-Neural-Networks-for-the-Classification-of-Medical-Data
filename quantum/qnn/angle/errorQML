@@ -1,0 +1,236 @@
+slurmstepd: error: *** JOB 560130 ON fn06 CANCELLED AT 2025-02-19T16:52:13 ***
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['Sex'].replace(['M', 'F'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['Sex'].replace(['M', 'F'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['Sex'].replace(['M', 'F'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['Sex'].replace(['M', 'F'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['Sex'].replace(['M', 'F'],
+hen doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['Sex'].replace(['M', 'F'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['Sex'].replace(['M', 'F'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['Sex'].replace(['M', 'F'],
+hen doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['Sex'].replace(['M', 'F'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['Sex'].replace(['M', 'F'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:26: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ExerciseAngina'].replace(['N', 'Y'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['Sex'].replace(['M', 'F'],
+hen doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ExerciseAngina'].replace(['N', 'Y'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:26: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ExerciseAngina'].replace(['N', 'Y'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:23: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['Sex'].replace(['M', 'F'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:26: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ExerciseAngina'].replace(['N', 'Y'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:26: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ExerciseAngina'].replace(['N', 'Y'],
+df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ExerciseAngina'].replace(['N', 'Y'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:26: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ExerciseAngina'].replace(['N', 'Y'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:26: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ExerciseAngina'].replace(['N', 'Y'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:26: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ExerciseAngina'].replace(['N', 'Y'],
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:31: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['RestingECG'].replace(['Normal', 'ST', 'LVH'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:31: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['RestingECG'].replace(['Normal', 'ST', 'LVH'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:29: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ChestPainType'].replace(['ATA', 'NAP', 'ASY', 'TA'], [0,1,2,3], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:31: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['RestingECG'].replace(['Normal', 'ST', 'LVH'], [0,1,2], inplace=True)
+ue)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['RestingECG'].replace(['Normal', 'ST', 'LVH'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:31: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['RestingECG'].replace(['Normal', 'ST', 'LVH'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:31: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['RestingECG'].replace(['Normal', 'ST', 'LVH'], [0,1,2], inplace=True)
+ue)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:31: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['RestingECG'].replace(['Normal', 'ST', 'LVH'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:31: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['RestingECG'].replace(['Normal', 'ST', 'LVH'], [0,1,2], inplace=True)
+ue)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:33: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:33: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:33: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+e)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:33: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:33: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:33: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:33: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.
+The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.
+
+For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.
+
+
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:33: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+/home/ghisoni/quantum_computing/medical_qnn/final/quantum/qnn/angle/cedr_angle.py:33: FutureWarning: Downcasting behavior in `replace` is deprecated and will be removed in a future version. To retain the old behavior, explicitly call `result.infer_objects(copy=False)`. To opt-in to the future behavior, set `pd.set_option('future.no_silent_downcasting', True)`
+  data['ST_Slope'].replace(['Up', 'Flat', 'Down'], [0,1,2], inplace=True)
+No GPU/TPU found, falling back to CPU. (Set TF_CPP_MIN_LOG_LEVEL=0 and rerun for more info.)
+No GPU/TPU found, falling back to CPU. (Set TF_CPP_MIN_LOG_LEVEL=0 and rerun for more info.)
+No GPU/TPU found, falling back to CPU. (Set TF_CPP_MIN_LOG_LEVEL=0 and rerun for more info.)
+No GPU/TPU found, falling back to CPU. (Set TF_CPP_MIN_LOG_LEVEL=0 and rerun for more info.)
+No GPU/TPU found, falling back to CPU. (Set TF_CPP_MIN_LOG_LEVEL=0 and rerun for more info.)
+No GPU/TPU found, falling back to CPU. (Set TF_CPP_MIN_LOG_LEVEL=0 and rerun for more info.)
+No GPU/TPU found, falling back to CPU. (Set TF_CPP_MIN_LOG_LEVEL=0 and rerun for more info.)
+slurmstepd: error: *** JOB 560131 ON fn06 CANCELLED AT 2025-02-19T16:52:26 ***
+slurmstepd: error: *** JOB 560132 ON fn06 CANCELLED AT 2025-02-19T16:52:27 ***
+slurmstepd: error: *** JOB 560133 ON fn06 CANCELLED AT 2025-02-19T16:52:28 ***
+slurmstepd: error: *** JOB 560134 ON fn05 CANCELLED AT 2025-02-19T16:52:30 ***
+slurmstepd: error: *** JOB 560135 ON fn05 CANCELLED AT 2025-02-19T16:52:33 ***
+slurmstepd: error: *** JOB 560136 ON fn05 CANCELLED AT 2025-02-19T16:52:34 ***
+slurmstepd: error: *** JOB 560137 ON fn05 CANCELLED AT 2025-02-19T16:52:34 ***

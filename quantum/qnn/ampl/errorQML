@@ -1,0 +1,13 @@
+No GPU/TPU found, falling back to CPU. (Set TF_CPP_MIN_LOG_LEVEL=0 and rerun for more info.)
+/home/ghisoni/.conda/envs/qml_jax_env/lib/python3.10/site-packages/jax/_src/numpy/array_methods.py:795: UserWarning: Explicitly requested dtype <class 'jax.numpy.float64'> requested in astype is not available, and will be truncated to dtype float32. To enable more dtypes, set the jax_enable_x64 configuration option or the JAX_ENABLE_X64 shell environment variable. See https://github.com/google/jax#current-gotchas for more.
+  return getattr(self.aval, name).fun(self, *args, **kwargs)
+/var/spool/slurm/job551050/slurm_script: riga 14: 182330 Killed                  python ce_ampl.py $1 $2
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=551050.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
+2025-01-29 03:15:46.660567: E external/xla/xla/service/slow_operation_alarm.cc:65] 
+********************************
+[Compiling module jit_optimizer_update] Very slow compile? If you want to file a bug, run with envvar XLA_FLAGS=--xla_dump_to=/tmp/foo and attach the results.
+********************************
+/var/spool/slurm/job551051/slurm_script: riga 14: 184388 Killed                  python ce_ampl.py $1 $2
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=551051.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
+/var/spool/slurm/job551052/slurm_script: riga 14: 185299 Killed                  python ce_ampl.py $1 $2
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=551052.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
